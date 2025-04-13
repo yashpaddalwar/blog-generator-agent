@@ -77,3 +77,5 @@ generate_blog_outline
 generate_blog
   ↓
 END
+
+You can see the results in the chain.ipynb file.
